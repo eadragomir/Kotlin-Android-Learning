@@ -21,3 +21,9 @@ fun main() {
         println("safeInt is: $safeInt")
     }
 }
+
+Output:
+safeString is null
+safeInt is: 123
+
+Process finished with exit code 0
